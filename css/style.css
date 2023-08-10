@@ -166,9 +166,9 @@ label {
 
 .btn {
 	-moz-user-select: none;
-	background: #1696e7 none repeat scroll 0 0;
+	background: #74cdc3 none repeat scroll 0 0;
 	border: medium none;
-	border-radius: 2px;
+	border-radius: 50px;
 	color: #fff;
 	cursor: pointer;
 	display: inline-block;
@@ -179,7 +179,6 @@ label {
 	margin-bottom: 0;
 	padding: 13px 25px;
 	text-align: center;
-	text-transform: uppercase;
 	touch-action: manipulation;
 	transition: all 0.3s ease 0s;
 	vertical-align: middle;
@@ -274,7 +273,16 @@ label {
 	text-align: end;
 	margin-right: 45px;
 }
-
+.slider-content p {
+	font-size: 25px;
+	color: #162535;
+}
+.slider-content p {
+	font-size: 25px;
+	color: #162535;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
 
 
 
