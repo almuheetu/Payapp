@@ -234,6 +234,27 @@ label {
 }
 
 
+/* header css started */
+.home {
+	padding-top: 30px;
+	padding-left: 45px;
+	padding-bottom: 30px;
+}
+.header-section {
+	background: #74cdc3;
+}
+.menu {
+	display: flex;
+}
+.menu li {
+	margin-left: 35px;
+}
+.menu li a {
+	font-size: 16px;
+	color: #fff;
+	font-weight: bold;
+}
+
 
 
 
