@@ -300,6 +300,23 @@ label {
 	font-size: 21px;
 	color: #fff;
 }
-
+.img-content h5 {
+	font-size: 23px;
+	color: #6cc0b7;
+	margin-top: 25px;
+	font-weight: bold;
+}
+.img-content p {
+	font-size: 21px;
+	color: #fff;
+	margin-top: 15px;
+}
+.img-content {
+	text-align: center;
+}
+.blog-img-btn {
+	text-align: center;
+	margin-top: 35px;
+}
 
 
