@@ -172,7 +172,7 @@ label {
 	color: #fff;
 	cursor: pointer;
 	display: inline-block;
-	font-size: 13px;
+	font-size: 19px;
 	font-weight: 600;
 	letter-spacing: 1px;
 	line-height: 1;
@@ -183,6 +183,28 @@ label {
 	transition: all 0.3s ease 0s;
 	vertical-align: middle;
 	white-space: nowrap;
+	font-weight: bold;
+}
+.blog-imgs-btn {
+	-moz-user-select: none;
+	background: #74cdc3 none repeat scroll 0 0;
+	border: medium none;
+	border-radius: 50px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 19px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 1;
+	margin-bottom: 0;
+	padding: 13px 40px;
+	text-align: center;
+	touch-action: manipulation;
+	transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	white-space: nowrap;
+	font-weight: bold;
 }
 .breadcrumb > .active {
 	color: #888;
@@ -262,7 +284,7 @@ label {
 	border-radius: 50px;
 }
 .slider-content h1 {
-	font-size: 90px;
+	font-size: 85px;
 	font-weight: bold;
 	margin-top: 120px;
 }
@@ -318,5 +340,7 @@ label {
 	text-align: center;
 	margin-top: 35px;
 }
-
+.shape img {
+	margin-left: -200px;
+}
 
