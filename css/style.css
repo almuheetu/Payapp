@@ -288,7 +288,18 @@ label {
 	padding-top: 57px;
 	padding-bottom: 50px;
 }
-
+.app {
+	background: #162535;
+}
+.app-content h2 {
+	font-size: 45px;
+	font-weight: bold;
+	color: #fff;
+}
+.app-content p {
+	font-size: 21px;
+	color: #fff;
+}
 
 
 
