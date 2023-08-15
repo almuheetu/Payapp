@@ -380,3 +380,30 @@ label {
 	left: -11%;
 }
 
+/* 
+about */
+.about-content h2 {
+	margin-top: 200px;
+}
+.about-content h2 {
+	margin-top: 200px;
+	font-size: 58px;
+	font-weight: bold;
+}
+.about-content p {
+	font-size: 21px;
+	/* padding: 10px 10px; */
+	margin-top: 15px;
+	padding-right: 170px;
+	color: #333;
+}
+.about-btn {
+	margin-top: 35px;
+}
+.about-img {
+	margin-top: 125px;
+}
+.about-img {
+	margin-top: 125px;
+	margin-bottom: 100px;
+}
