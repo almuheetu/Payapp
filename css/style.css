@@ -302,8 +302,8 @@ label {
 .slider-content p {
 	font-size: 25px;
 	color: #162535;
-	margin-top: 30px;
-	margin-bottom: 40px;
+	margin-top: 35px;
+	margin-bottom: 45px;
 }
 .app-content {
 	text-align: center;
@@ -376,6 +376,6 @@ label {
 .sliders-content {
 	position: absolute;
 	top: 52%;
-	left: -10%;
+	left: -11%;
 }
 
