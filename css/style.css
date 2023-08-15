@@ -507,3 +507,14 @@ about */
 	font-weight: bold;
 	margin-top: 30px;
 }
+.blogs-content p a {
+	font-size: 16px;
+	color: #162535;
+	border-bottom: 1px solid #162535;
+}
+.blogs-content p {
+	margin-top: 20px;
+}
+.blog-section {
+	padding-bottom: 80px;
+}
