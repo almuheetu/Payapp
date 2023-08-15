@@ -343,4 +343,39 @@ label {
 .shape img {
 	margin-left: -200px;
 }
+.sliders-content {
+	width: 285px;
+	height: 220px;
+	background: #fff;
+	border-radius: 15%;
+}
+.sliders-content h4 {
+	font-size: 30px;
+	font-weight: bold;
+}
+.sliders-content p {
+	font-size: 18px;
+	color: #333;
+}
+.sliders-content {
+	width: 320px;
+	height: 260px;
+	background: #fff;
+	border-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 45px 30px;
+}
+.sliders-content {
+	position: absolute;
+	top: 60%;
+	left: -14%;
+}
+.shape img {
+	margin-bottom: 135px;
+}
+.sliders-content {
+	position: absolute;
+	top: 52%;
+	left: -10%;
+}
 
