@@ -471,3 +471,22 @@ about */
 .company-content {
 	text-align: center;
 }
+.company-content h2 {
+	font-size: 46px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 70px;
+}
+.company-content p {
+	font-size: 25px;
+	color: #fff;
+	padding: 0px 230px;
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+.company-img img {
+	width: 100%;
+}
+.company-img {
+	margin-bottom: 115px;
+}
