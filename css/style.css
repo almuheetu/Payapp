@@ -283,6 +283,9 @@ label {
 	padding: 2px 15px;
 	border-radius: 50px;
 }
+
+/* slider */
+
 .slider-content h1 {
 	font-size: 85px;
 	font-weight: bold;
@@ -304,42 +307,6 @@ label {
 	color: #162535;
 	margin-top: 35px;
 	margin-bottom: 45px;
-}
-.app-content {
-	text-align: center;
-	padding-top: 57px;
-	padding-bottom: 50px;
-}
-.app {
-	background: #162535;
-}
-.app-content h2 {
-	font-size: 45px;
-	font-weight: bold;
-	color: #fff;
-}
-.app-content p {
-	font-size: 21px;
-	color: #fff;
-}
-.img-content h5 {
-	font-size: 23px;
-	color: #6cc0b7;
-	margin-top: 25px;
-	font-weight: bold;
-}
-.img-content p {
-	font-size: 21px;
-	color: #fff;
-	margin-top: 15px;
-}
-.img-content {
-	text-align: center;
-}
-.blog-img-btn {
-	text-align: center;
-	margin-top: 35px;
-	margin-bottom: 100px;
 }
 .shape img {
 	margin-left: -200px;
@@ -380,6 +347,46 @@ label {
 	left: -11%;
 }
 
+/* app */
+
+.app-content {
+	text-align: center;
+	padding-top: 57px;
+	padding-bottom: 50px;
+}
+.app {
+	background: #162535;
+}
+.app-content h2 {
+	font-size: 45px;
+	font-weight: bold;
+	color: #fff;
+}
+.app-content p {
+	font-size: 21px;
+	color: #fff;
+}
+.img-content h5 {
+	font-size: 23px;
+	color: #6cc0b7;
+	margin-top: 25px;
+	font-weight: bold;
+}
+.img-content p {
+	font-size: 21px;
+	color: #fff;
+	margin-top: 15px;
+}
+.img-content {
+	text-align: center;
+}
+.blog-img-btn {
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 100px;
+}
+
+
 /* 
 about */
 .about-content h2 {
@@ -406,4 +413,53 @@ about */
 .about-img {
 	margin-top: 125px;
 	margin-bottom: 100px;
+}
+.about-img img {
+	margin-left: -90px;
+}
+
+
+/* work */
+.work-img {
+	margin-top: 65px;
+}
+.works-content h2 {
+	font-size: 59px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.works-content p {
+	font-size: 20px;
+	color: #333;
+	padding-right: 65px;
+}
+.works-content {
+	margin-top: 115px;
+	margin-left: 40px;
+}
+.work-contents {
+	width: 340px;
+	height: 220px;
+	background: #162535;
+	border-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 65px 35px;
+}
+.work-contents p {
+	font-size: 28px;
+	color: #c75252;
+	text-align: center;
+	line-height: 32px;
+}
+.work-img {
+	position: relative;
+}
+.work-contents {
+	position: absolute;
+	text-align: 20px;
+	top: 410px;
+	left: 368px;
+}
+.work-img {
+	margin-bottom: 270px;
 }
