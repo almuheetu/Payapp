@@ -463,3 +463,11 @@ about */
 .work-img {
 	margin-bottom: 270px;
 }
+
+/* company */
+.our-company {
+	background: #162535;
+}
+.company-content {
+	text-align: center;
+}
