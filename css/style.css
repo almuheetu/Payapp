@@ -530,3 +530,41 @@ about */
 .Newsletter {
 	margin-top: 120px;
 }
+.news-form {
+	background: #162535;
+}
+.news-form {
+	padding: 50px 55px;
+}
+.form-content h3 {
+	font-size: 34px;
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 35px;
+}
+.form-controls {
+	border-radius: inherit;
+	margin-bottom: 25px;
+}
+.form-controlss {
+	border-radius: inherit;
+}
+.form-control-3 {
+	border-radius: inherit;
+	margin-bottom: 25px;
+}
+.news-form {
+	padding: 50px 60px;
+	padding-bottom: 70px;
+	border-radius: 40px;
+}
+.form-control-4 input {
+	width: 100%;
+	height: 160px;
+	/* padding-bottom: 70px; */
+}
+.news-content.pages h2 {
+	font-size: 58px;
+	font-weight: bold;
+	margin-top: 65px;
+}
