@@ -581,6 +581,7 @@ about */
 }
 .contact-content {
 	text-align: center;
+	margin-top: 50px;
 }
 .contact-content h2 {
 	font-size: 50px;
@@ -593,11 +594,43 @@ about */
 	margin-bottom: 50px;
 	color: #333;
 }
-.contact-img {
+/* .contact-img {
 	position: absolute;
 	top: -140%;
 	/* text-align: -moz-right; */
-}
-.contact-content {
+
+/* .contact-content {
 	position: relative;
+} */ 
+.con-img {
+	text-align: end;
+}
+.con-img img {
+	margin-right: -180px;
+}
+.con-img img {
+	margin-right: -140px;
+	margin-top: -350px;
+}
+.contact-img {
+	position: absolute;
+	top: 36%;
+}
+.contact-paragraph {
+	margin-top: 0;
+	text-align: center;
+	margin-top: 65px;
+	margin-bottom: 50px;
+}
+.contact-paragraph p {
+	font-size: 25px;
+	padding: 0px 407px;
+	margin-bottom: 0px;
+	color: #333;
+	line-height: 30px;
+}
+.contact-paragraph span {
+	font-size: 25px;
+	color: #333;
+	line-height: 30px;
 }
