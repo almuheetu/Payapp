@@ -639,4 +639,19 @@ about */
 /* footer */
 .footer-section {
 	background: #162535;
+}                 
+.footer-section {
+	margin-top: 144px;
+}
+.footer-logo {
+	margin-top: 68px;
+	margin-bottom: 54px;
+}
+.footer-menu ul li a {
+	color: #fff;
+	/* margin-bottom: 16px; */
+	font-size: 24px;
+}
+.footer-menu {
+	margin-bottom: 170px;
 }
