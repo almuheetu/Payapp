@@ -655,3 +655,10 @@ about */
 .footer-menu {
 	margin-bottom: 170px;
 }
+.copy-right p {
+	font-size: 25px;
+	color: #fff;
+}
+.copy-right {
+	margin-bottom: 40px;
+}
