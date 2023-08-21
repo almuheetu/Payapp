@@ -664,12 +664,8 @@ about */
 }
 .footer-img {
 	position: absolute;
-	top: -215%;
+	bottom: -400px;
 }
 .footer-right {
 	position: relative;
-}
-.footer-social {
-	position: relative;
-	top: 415px;
 }
