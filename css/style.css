@@ -669,3 +669,9 @@ about */
 .footer-right {
 	position: relative;
 }
+.footer-social ul li {
+	float: left;
+}
+.rowws {
+	padding: 0px;
+}
