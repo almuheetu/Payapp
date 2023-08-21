@@ -662,3 +662,14 @@ about */
 .copy-right {
 	margin-bottom: 40px;
 }
+.footer-img {
+	position: absolute;
+	top: -215%;
+}
+.footer-right {
+	position: relative;
+}
+.footer-social {
+	position: relative;
+	top: 415px;
+}
