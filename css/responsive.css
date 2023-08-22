@@ -1,7 +1,9 @@
 /* Normal desktop :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 
-
+    .header-menu {
+        margin-left: 30px;
+    }
 }
 
 
