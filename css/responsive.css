@@ -20,6 +20,12 @@
         font-weight: bold;
         margin-top: 80px;
     } */
+    .app-img img {
+        width: 100%;
+    }
+    .img-content h5 {
+        font-size: 19px;
+    }
 
 }
 
