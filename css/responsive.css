@@ -26,6 +26,12 @@
     .img-content h5 {
         font-size: 19px;
     }
+    .img-content p {
+        font-size: 16px;
+    }
+    .blog-img-btn {
+        margin-bottom: 62px;
+    }
 
 }
 
