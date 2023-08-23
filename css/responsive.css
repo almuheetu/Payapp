@@ -98,6 +98,15 @@
     .form-content h3 {
         font-size: 30px;
     }
+    .contact-img img {
+        width: 100%;
+    }
+    .contact-content p {
+        padding: 0px 120px;
+    }
+    .contact-paragraph p {
+        padding: 0px 337px;
+    }
 
 }
 
