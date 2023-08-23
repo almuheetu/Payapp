@@ -80,6 +80,10 @@
     .blogs-img img {
         width: 100%;
     }
+    .blogs {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
 
 }
 
