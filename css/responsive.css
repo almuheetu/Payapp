@@ -64,6 +64,22 @@
         font-size: 55px;
         margin-bottom: 20px;
     }
+    .company-content h2 {
+        margin-top: 50px;
+    }
+    .company-content p {
+        font-size: 20px;
+        padding: 0px 190px;
+    }
+    .company-img img {
+        width: 100%;
+    }
+    .company-img {
+        margin-bottom: 75px;
+    }
+    .blogs-img img {
+        width: 100%;
+    }
 
 }
 
