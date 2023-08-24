@@ -139,6 +139,10 @@
     .shape img {
         margin-bottom: 85px;
     }
+    .sliders-content {
+        width: 300px;
+        padding: 42px 24px;
+    }
 
 }
 
