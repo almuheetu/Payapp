@@ -143,6 +143,32 @@
         width: 300px;
         padding: 42px 24px;
     }
+    .app-img img {
+        width: 100%;
+    }
+    .about-img img {
+        width: 100%;
+    }
+    .about-img {
+        text-align: end;
+    }
+    .about-content p {
+        font-size: 18px;
+        padding-right: 33px;
+    }
+    .about-content h2 {
+        margin-top: 128px;
+        font-size: 45px;
+    }
+    .about-img {
+        margin-top: 150px;
+    }
+
+
+
+
+
+    
 
 }
 
