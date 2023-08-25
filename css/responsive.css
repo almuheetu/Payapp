@@ -161,7 +161,10 @@
         font-size: 45px;
     }
     .about-img {
-        margin-top: 150px;
+        margin-top: 105px;
+    }
+    .about-content h2 {
+        margin-top: 70px;
     }
 
 
