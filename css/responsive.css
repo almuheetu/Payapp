@@ -166,6 +166,25 @@
     .about-content h2 {
         margin-top: 70px;
     }
+    .work-img img {
+        width: 100%;
+    }
+    .works-content h2 {
+        font-size: 45px;
+    }
+    .works-content {
+        margin-top: 65px;
+        margin-left: 25px;
+    }
+    .works-content p {
+        font-size: 17px;
+        color: #333;
+        padding-right: 0px;
+    }
+    .work-contents {
+        top: 235px;
+        left: 100px;
+    }
 
 
 
