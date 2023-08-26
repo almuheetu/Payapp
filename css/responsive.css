@@ -281,7 +281,7 @@
     nav a{
         font-size: 17px;
     } */
-    nav #icon{
+    /* nav #icon{
         display: block;
 
     }
@@ -291,10 +291,22 @@
         height: 100vh;
         background: #2f3640;
         top: 80px;
-        left: 0;
+        left: -100%;
         text-align: center;
+        transition: all .5s;
 
     }
+    nav li{
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+    nav a{
+        font-size: 20px;
+    }
+    nav ul.show{
+        left: 0;
+    } */
 
 
 
@@ -303,12 +315,59 @@
     
 
 }
+@media (min-width: 767px) {
+    #sideNav, #menuBtn{
+        display: none;
+    }
 
- 
+   }
+
 /* small mobile :320px. */
 @media (max-width: 767px) {
 
- 
+ .header-menu{
+    display: none;
+ }
+ .shape{
+    display: none;
+}
+.slider-content {
+	text-align: center;
+}
+.slider-content h1{
+    font-size: 54px;
+    margin-top: 80px;
+}
+.slider-content p{
+    font-size: 20px;
+}
+
+.btn.slider-btn {
+	margin-bottom: 25px;
+}
+.app-img {
+	text-align: center;
+}
+.img-content {
+	margin-bottom: 35px;
+}
+.about-content{
+    text-align: center;
+}
+.about-content p{
+    padding-right: 0px;
+}
+.about-img{
+    text-align: center;
+}
+.about-img img {
+	width: 100%;
+}
+.about-content h2 {
+	margin-top: 60px;
+	font-size: 53px;
+	
+}
 }
  
 /* Large Mobile :480px. */
