@@ -357,16 +357,23 @@
 .about-content p{
     padding-right: 0px;
 }
-.about-img{
-    text-align: center;
+.about-img {
+	text-align: end;
 }
 .about-img img {
 	width: 100%;
 }
 .about-content h2 {
 	margin-top: 60px;
-	font-size: 53px;
-	
+	font-size: 53px;	
+}
+
+.about-img {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.work-img img {
+	width: 100%;
 }
 }
  
