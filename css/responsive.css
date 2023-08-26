@@ -396,7 +396,45 @@
 	font-size: 55px;
 	margin-bottom: 20px;
 }
-
+.company-content p {
+	font-size: 20px;
+	padding: 0px 0px;
+}
+.company-content h2 {
+	font-size: 45px;
+	margin-top: 50px;
+}
+.company-img {
+	margin-bottom: 70px;
+}
+.blogs {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.blogs-content p {
+	margin-bottom: 30px;
+}
+.blogs-content p {
+	margin-top: 0px;
+}
+.blogs-content h4 {
+	margin-top: 20px;
+}
+.Newsletter {
+	margin-top: 0;
+	margin-bottom: 50px;
+}
+.news-content.pages {
+	text-align: center;
+}
+.news-content.pages p {
+	font-size: 23px;
+	padding-right: 0px;
+	margin-bottom: 30px;
+}
+.news-form {
+	margin-top: 50px;
+}
 
 
 }
