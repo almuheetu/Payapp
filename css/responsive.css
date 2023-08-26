@@ -375,6 +375,30 @@
 .work-img img {
 	width: 100%;
 }
+.work-contents {
+	display: none;
+}
+.work-img {
+	margin-bottom: 0;
+}
+.works-content {
+	margin-top: 50px;
+	text-align: center;
+}
+.works-content {
+	margin-left: 0;
+}
+.works-content p {
+	padding-right: 0;
+	margin-bottom: 50px;
+}
+.works-content h2 {
+	font-size: 55px;
+	margin-bottom: 20px;
+}
+
+
+
 }
  
 /* Large Mobile :480px. */
