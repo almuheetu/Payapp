@@ -435,7 +435,16 @@
 .news-form {
 	margin-top: 50px;
 }
-
+.contact-content p {
+	font-size: 23px;
+	padding: 0px 0px;
+}
+.contact-img img {
+	width: 100%;
+}
+.contact-paragraph p {
+	padding: 0px 60px;
+}
 
 }
  
