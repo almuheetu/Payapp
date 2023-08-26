@@ -680,3 +680,10 @@ about */
 .footer-end {
 	margin-top: 60px;
 }
+
+
+
+/* mobile menu */
+nav #icon{
+	color: #fff;
+}
